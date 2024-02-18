@@ -1,0 +1,19 @@
+{
+  "name": "react-dev-env-example",
+  "version": "1.0.0",
+  "description": "A repository to reference when setting up a new React repository",
+  "author": "Bradley Fisher",
+  "license": "ISC",
+  "scripts": {
+    "prepare": "husky",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no start specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "18.6.1",
+    "@commitlint/config-conventional": "18.6.2",
+    "commitlint-plugin-function-rules": "^3.1.0",
+    "eslint": "8.56.0",
+    "husky": "9.0.11"
+  }
+}
